@@ -45,3 +45,9 @@
 -- Kako se zove fotić koji je vrijedan? Potić
 -- (jer je Ante rekao da je super kad ga netko potiče) 
 -- jaoo
+
+2019/07/10 
+-- AP
+-- Postali smo pravi GITijalci
+-- (nakon uspjesnog GIT commita) 
+-- jaoo
