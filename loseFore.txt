@@ -51,3 +51,9 @@
 -- Postali smo pravi GITijalci
 -- (nakon uspjesnog GIT commita) 
 -- jaoo
+
+2019/08/28 
+-- AP
+-- Ako je tako divan zašto se zove Grožnjan
+-- (dok je Ana pričala kako je Grožnjan divan) 
+-- jaooo
