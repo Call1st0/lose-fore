@@ -52,6 +52,12 @@
 -- (nakon uspjesnog GIT commita) 
 -- jaoo
 
+2019/07/17 
+-- PBJ
+-- Kako se zove lanac koji izvučeš iz mora? ... ... Slanac.
+-- (ne samo da je loš vic, nego sam započeo vic ovako: "Kako se zove sl...".) 
+-- jao
+
 2019/08/28 
 -- AP
 -- Ako je tako divan zašto se zove Grožnjan
