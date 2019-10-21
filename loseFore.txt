@@ -57,3 +57,9 @@
 -- Kako se zove lanac koji izvučeš iz mora? ... ... Slanac.
 -- (ne samo da je loš vic, nego sam započeo vic ovako: "Kako se zove sl...".) 
 -- jao
+
+2019/10/20 
+-- PBJ
+-- Davore, sada kada napraviš printer profile, morat ćeš po hodniku hodati bočno.
+-- (Da ti svi vide novi profil.) 
+-- jaoo
